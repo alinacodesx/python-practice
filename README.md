@@ -1,2 +1,2 @@
 # python-practice
-Learning Python fundamentals by writing small programs
+Practicing Python by building small programs and strengthening core concepts.
